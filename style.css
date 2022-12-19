@@ -1,0 +1,48 @@
+body{
+	background-color: darkgrey;
+	color:black;
+	/*color of words*/
+	font-family: 'PT Sans Narrow', sans-serif;
+	letter-spacing:
+}
+
+h1{
+	letter-spacing:2px;
+	font-size: 50px;
+	/*text-align: left;*/
+	text-decoration: none;
+
+}
+p{
+	font-size: 26px;
+}
+
+img{
+	width: 500px;
+	height: 500	px;
+	object-fit: cover;
+	margin-top: 60px;
+}
+
+/*class -->*/
+.people{
+	height: 50%;
+	width: 100%;
+}
+/*id - - > # */
+#spongebob{
+	width: 100%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+ul{
+	list-style-type: circle;
+}
